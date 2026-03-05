@@ -1,9 +1,0 @@
-torch
-pandas
-numpy
-matplotlib
-seaborn
-uvicorn
-fastapi
-torch_geometric
-umap-learn
