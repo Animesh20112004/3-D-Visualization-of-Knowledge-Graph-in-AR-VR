@@ -1,2 +1,13 @@
 venv/
 database/
+.vscode
+
+__pycache__/
+*.pyc
+
+# Unity
+unity_project/Hetionet_Metaverse/Library/
+unity_project/Hetionet_Metaverse/Temp/
+unity_project/Hetionet_Metaverse/Logs/
+unity_project/Hetionet_Metaverse/UserSettings/
+unity_project/Hetionet_Metaverse/Build/
